@@ -1,0 +1,162 @@
+\begin{thebibliography}{10}
+
+\bibitem{NEXYS4Dig}
+Digilent, ``Nexys4-digilent reference.''
+  \url{https://digilent.com/reference/programmable-logic/nexys-4/start}, Gener
+  \anydediposit.
+
+\bibitem{I2SESP32}
+E.~Systems, ``Inter-ic sound (i2s) - esp32 - esp-idf programming guide v5.4
+  documentation.''
+  \url{https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/peripherals/i2s.html},
+  Gener \anydediposit.
+
+\bibitem{CICLyons}
+R.~Lyons, ``A beginner's guide to cascaded integrator-comb (cic) filters.''
+  \url{https://www.dsprelated.com/showarticle/1337.php}, Gener \anydediposit.
+
+\bibitem{UndrstndSDM}
+S.~Pavan, R.~Schreier, and G.~C. Temes, {\em UNDERSTANDING DELTA-SIGMA DATA
+  CONVERTERS, SECOND EDITION}.
+\newblock wiley, 3 2017.
+
+\bibitem{PiquePWR}
+R.~P. López and E.~B. Portillo, {\em Electrónica de potencia}.
+\newblock Marcombo, 2011.
+
+\bibitem{I2S_manual}
+N.~Semiconductors, ``Um11732 i2s bus specification.''
+  \url{https://www.nxp.com/docs/en/user-manual/UM11732.pdf}, Gener
+  \anydediposit.
+
+\bibitem{TFGAmpClassD}
+G.~R. Vila, ``Amplificador digital classe d amb reducció de soroll de
+  quantificació,'' tech. rep., 2019.
+
+\bibitem{FtprntEco}
+Interface, ``Chip production’s ecological footprint: Mapping climate and
+  environmental impact.''
+  \url{https://www.interface-eu.org/publications/chip-productions-ecological-footprint},
+  Gener \anydediposit.
+
+\bibitem{FFTSin1kHz}
+CheckHearing, ``Free online audio plot spectrum.''
+  \url{https://www.checkhearing.org/audioPlotSpectrum.php}, Gener
+  \anydediposit.
+
+\bibitem{SDMClassD}
+N.~Pereira and N.~Paulino, {\em Design and Implementation of Sigma Delta
+  Modulators (ΣΔM) for Class D Audio Amplifiers using Differential Pairs}.
+\newblock Springer International Publishing, 2015.
+
+\bibitem{MPSAmpD}
+MPS, ``Ax5688 | 2-channel, digital-input class-d audio controller | mps.''
+  \url{https://www.monolithicpower.com/en/products/ax5688.html}, Gener
+  \anydediposit.
+
+\bibitem{TIAmpD}
+T.~Instruments, ``Tas2320 data sheet, product information and support |
+  ti.com.'' \url{https://www.ti.com/product/TAS2320}, Gener 2024.
+
+\bibitem{AnalogAmpD}
+A.~Devices, ``Max98365 datasheet and product info | analog devices.''
+  \url{https://www.analog.com/en/products/max98365.htm}, Gener \anydediposit.
+
+\bibitem{Maaref2023}
+M.~Maaref, {\em Architecting and building high speed SoCs design, develop, and
+  debug complex FPGA based systems-on-chip}.
+\newblock Packt Publishing, 2023.
+
+\bibitem{FPGADig}
+S.~Radecki, ``What is an fpga? | uses, applications & advantages – digilent
+  blog.'' \url{https://digilent.com/blog/what-is-an-fpga/}, Gener
+  \anydediposit.
+
+\bibitem{Bose1985}
+N.~K. Bose, {\em Digital filters : theory and applications}.
+\newblock North-Holland ; Elsevier Science Pub. Co., 1985.
+
+\bibitem{ImmAudioSign}
+C.~Bharitkar, Sunil;~Kyriakakis, {\em Immersive Audio Signal Processing}.
+\newblock Springer New York, 2006.
+
+\bibitem{NYQUIST1928}
+H.~NYQUIST, ``Certain topics in telegraph transmission theory,'' {\em
+  Transactions of the American Institute of Electrical Engineers}, vol.~47,
+  pp.~617--644, 1928.
+
+\bibitem{DiscreteTimeSP}
+S.~R. Oppenheim~A., {\em Discrete Time Signal Processing 3ed 2014 Solutions}.
+\newblock Prentice Hall, 2~ed., 1998.
+
+\bibitem{DigitalSignalPr}
+D.~D. Sundararajan, ``The z-transform,'' {\em Digital Signal Processing},
+  pp.~195--228, 2024.
+
+\bibitem{Hogenauer1981}
+E.~B. Hogenauer, ``An economical class of digital filters for decimation and
+  interpolation,'' {\em IEEE Transactions on Acoustics, Speech, and Signal
+  Processing}, vol.~29, pp.~155--162, 1981.
+
+\bibitem{SDMToolbox}
+A.~Devices, ``The delta-sigma toolbox version 7.3 getting started.''
+  \url{http://www.math-}, Gener \anydediposit.
+
+\bibitem{PWMarticle}
+S.~B. Santra, K.~Bhattacharya, T.~R. Chudhury, and D.~Chatterjee, ``Generation
+  of pwm schemes for power electronic converters,'' {\em 2018 20th National
+  Power Systems Conference, NPSC 2018}, 12 2018.
+
+\bibitem{ADC16b}
+J.~C. Fernàndez, M.~Dei, F.~S. Graells, and X.~A. Cervera, ``Design of a
+  16-bit 50-khz low-power sc delta-sigma modulator for adc in 0.18um cmos
+  technology,'' Master's thesis, 2016.
+
+\bibitem{SDarduino}
+Arduino, ``Sd/src/sd.h at master · arduino-libraries/sd.''
+  \url{https://github.com/arduino-libraries/SD/blob/master/src/SD.h}, Gener
+  \anydediposit.
+
+\bibitem{I2SESP32code}
+E.~Systems, ``I2s - esp32 - esp-idf programming guide v4.2 documentation.''
+  \url{https://docs.espressif.com/projects/esp-idf/en/v4.2/esp32/api-reference/peripherals/i2s.html#_CPPv417i2s_comm_format_t},
+  Gener \anydediposit.
+
+\bibitem{AN455}
+Intel, ``An 455: Understanding cic compensation filters.''
+  \url{https://www.intel.com/content/www/us/en/content-details/653906/an-455-understanding-cic-compensation-filters.html},
+  Gener \anydediposit.
+
+\bibitem{FIRcompiler}
+Xilinx and Inc, ``Fir compiler v7.2 logicore ip product guide vivado design
+  suite.'' \url{FIR Compiler v7.2 LogiCORE IP Product Guide Vivado Design
+  Suite}, Gener \anydediposit.
+
+\bibitem{codiGit}
+M.~Leonel, ``Delta-sigma-dac-converter.''
+  \url{https://github.com/mlacosta/Delta-Sigma-DAC-Converter/blob/master/DELTA_SIGMA.vhd},
+  Gener \anydediposit.
+
+\bibitem{AMDGHG}
+AMD, ``Environmental sustainability-amd.''
+  \url{https://www.amd.com/en/corporate/corporate-responsibility/environmental-sustainability.html},
+  Gener \anydediposit.
+
+\bibitem{BOEsal}
+M.~de~Trabajo~y Economia~Social, ``Boe-a-2024-5873 resolución de 12 de marzo
+  de 2024, de la dirección general de trabajo, por la que se registran y
+  publican las tablas salariales para 2024 del xx convenio colectivo nacional
+  de empresas de ingeniería, oficinas de estudios técnicos, inspección,
+  supervisión y control técnico y de calidad..''
+
+\bibitem{MATLABlic}
+M.~Inc., ``Nueva licencia de matlab home.''
+  \url{https://es.mathworks.com/store/link/products/home/ML}, Gener
+  \anydediposit.
+
+\bibitem{Sin1kHZ}
+klangfabrik, ``Freesound - tone 1 khz 44.1 16bit.wav by klangfabrik.''
+  \url{https://freesound.org/people/klangfabrik/sounds/28636/}, Gener
+  \anydediposit.
+
+\end{thebibliography}

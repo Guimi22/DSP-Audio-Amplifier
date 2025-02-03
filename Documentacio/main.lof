@@ -1,0 +1,73 @@
+\babel@toc {catalan}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Amplificador de classe D en configuració de semi-pont.}}{16}{figure.caption.10}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Amplificador de classe D en configuració de pont complet.}}{16}{figure.caption.11}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Diagrama de blocs dels elements en una FPGA en el silici del IC.}}{17}{figure.caption.13}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Placa de desenvolupament Nexys4 utilitzada pel desenvolupament d'aquest treball.\cite {NEXYS4Dig}}}{18}{figure.caption.16}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Frame del bus I2S en mode d'operació justificat a la dreta. \cite {I2SESP32}}}{19}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Frame del bus I2S en mode d'operació justificat a l'esquerra. \cite {I2SESP32}}}{20}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Frame del bus I2S en mode d'operació de l'estàndar Philips. \cite {I2SESP32}}}{20}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Efectes de l'Aliasing en un senyal sinusoidal on la freqüència de mostreig es superior a la freqüència de Nyquist}}{22}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Impuls unitari en temps discret de n = 10 mostres.}}{23}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Esglaó unitari en temps discret de n = 10 mostres.}}{24}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Funció rampa en temps discret de n = 10 mostres.}}{24}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Resposta a un impuls unitari d'un filtre FIR}}{26}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Bloc de filtrat Comb o de pinta. \cite {CICLyons}}}{27}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Diagrama de blocs d'un filtre de mitjana mòbil.}}{27}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Implementacions de filtres CIC en una sola etapa: (a) Delmat; (b) Interpolació \cite {CICLyons}}}{27}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Modulador $\Sigma \Delta $ de primer ordre.}}{29}{figure.caption.32}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Resposta en freqüència de NTF(z) d'un modulador $\Sigma \Delta $ de primer ordre. \cite {UndrstndSDM}}}{29}{figure.caption.33}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Modulador $\Sigma \Delta $ CIFB}}{30}{figure.caption.35}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Modulador $\Sigma \Delta $ CRFB}}{30}{figure.caption.36}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Modulador $\Sigma \Delta $ CIFF}}{30}{figure.caption.37}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Modulador $\Sigma \Delta $ CRFF}}{31}{figure.caption.38}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Frame dels senyals implicats en el procés de modulació per ample de polsos en el medi analògic, on el senyal de control representa l'amplitud a transmetre a la sortida. \cite {PiquePWR}}}{31}{figure.caption.39}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Diagrama de blocs del sistema implementat en aquest treball.}}{35}{figure.caption.40}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Targeta MCU del ESP32-WROOM-V2.}}{36}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Adaptador de targeta microSD a SPI.}}{37}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Mòdul alimentació 5V i 3,3V.}}{37}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Targeta microSD amb 8 Gb de memòria.}}{37}{figure.caption.44}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Mètode begin() de la classe SDclass. (font arduino o repo github)}}{37}{figure.caption.45}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Extracte del codi emprat per programar la targeta ESP32, on es declara la macro \textit {i2s\textunderscore config}.}}{38}{figure.caption.46}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Declaració dels pins de la ESP32 assignats a cada senyal del bus I2S.}}{39}{figure.caption.47}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Muntatge final de la font d'àudio I2S en una protoboard.}}{39}{figure.caption.48}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Una versió de la possible configuració del receptor I2S.\cite {I2S_manual}}}{40}{figure.caption.49}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Una versió diferent de la figura \ref {receptor_i2s1_fig}, d'una possible configuració del receptor I2S. \cite {I2S_manual}}}{40}{figure.caption.50}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Diagrama de blocs de l'estructura implementada en el receptor I2S.}}{41}{figure.caption.51}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Cronograma del banc de proves pel receptor I2S.}}{42}{figure.caption.52}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Diagrama de Bode del filtre de compensació de l'etapa d'Interpolació.}}{44}{figure.caption.56}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Diagrama de Bode del filtre CIC}}{45}{figure.caption.59}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Diagrama de Bode de l'etapa de filtrat i sobremostreig dissenyada.}}{46}{figure.caption.61}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Cronograma del testbench del bloc IP FIR Compiler \cite {TFGAmpClassD}}}{47}{figure.caption.64}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Cronograma del testbench del bloc IP CIC Compiler.}}{48}{figure.caption.66}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Diagrama de blocs d'un modulador $\Sigma \Delta $ de segon ordre.}}{49}{figure.caption.68}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Cercle unitari en el pla polar de STF(z) i NTF(z). STF(z) i NTF(z) comparteixen pols.}}{51}{figure.caption.69}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Diagrama de Bode de la funció de transferència del Senyal (STF(z)).}}{52}{figure.caption.71}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Diagrama de Bode de la funció de transferència del Soroll (NTF(z)).}}{52}{figure.caption.72}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Sentència del \textit {process} on s'executen les operacions del modulador $\Sigma \Delta $.}}{53}{figure.caption.73}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Declaració de senyals de l'entitat sigma\textunderscore delta\textunderscore 2}}{53}{figure.caption.74}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Diagrama de blocs del bloc integrador del modulador $\Sigma \Delta $}}{54}{figure.caption.75}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Diagrama de temps del banc de proves per la validació de l'entitat sigma\textunderscore delta\textunderscore 2. En gran es pot apreciar l'ona sinusoidal aplicada a l'entrada i abaix la sortida en format PDM del modulador.}}{54}{figure.caption.77}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Diagrama de temps del banc de proves per la validació de l'entitat sigma\textunderscore delta\textunderscore 2. De nou, en gran es pot apreciar l'ona sinusoidal aplicada a l'entrada i més avall, les senyals x1 i x2 el valor de les variables d'estat.}}{55}{figure.caption.78}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces A l'esquerra predicció de les emissions de gasos d'efecte hivernacle de l'Indústria de producció de Semiconductors. A la dreta, les emissions de gasos produides per la indústria química, metal·lúrgica i d'aviació.\cite {FtprntEco}}}{56}{figure.caption.80}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Informe del timing dels processos dins la FPGA.}}{59}{figure.caption.85}%
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Informe dels consums de potència dels subprocessos en la implementació a la FPGA.}}{59}{figure.caption.86}%
+\contentsline {figure}{\numberline {9.3}{\ignorespaces FFT del senyal sinusoidal de 1 kHz a l'entrada.\cite {FFTSin1kHz}}}{60}{figure.caption.88}%
+\contentsline {figure}{\numberline {9.4}{\ignorespaces Setup del test pràctic per a la validació final del sistema implementat.}}{61}{figure.caption.89}%
+\contentsline {figure}{\numberline {9.5}{\ignorespaces FFT de la sortida PDM del sistema.}}{61}{figure.caption.90}%
+\contentsline {figure}{\numberline {9.6}{\ignorespaces FFT de la sortida PDM del sistema, amb el cursor sobre la freqüència de 1 kHz i 1 MHz.}}{61}{figure.caption.91}%
+\contentsline {figure}{\numberline {9.7}{\ignorespaces FFT de la sortida PDM del sistema, amb el cursor sobre la freqüència de 8,76 kHz i 1 MHz.}}{62}{figure.caption.92}%
+\contentsline {figure}{\numberline {9.8}{\ignorespaces FFT de la sortida PDM del sistema, amb el cursor sobre la freqüència de 5 kHz i 1 MHz.}}{62}{figure.caption.93}%
+\contentsline {figure}{\numberline {9.9}{\ignorespaces Trama de la sortida PDM del sistema.}}{62}{figure.caption.94}%
+\contentsline {figure}{\numberline {9.10}{\ignorespaces FFT de la sortida analògica del sistema, centrat a l'origen de coordenades la freqüència de 1 kHz.}}{63}{figure.caption.95}%
+\contentsline {figure}{\numberline {9.11}{\ignorespaces FFT de la sortida analògica del sistema, centrat a l'origen de coordenades la freqüència de 2,5kHz.}}{63}{figure.caption.96}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Diagrama de blocs del projecte al Vivado.}}{82}{figure.caption.102}%

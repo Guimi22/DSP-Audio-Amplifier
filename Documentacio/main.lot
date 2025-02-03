@@ -1,0 +1,26 @@
+\babel@toc {catalan}{}\relax 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Recursos disponibles de la FPGA utilitzada en la placa de desenvolupament Nexys4.\cite {NEXYS4Dig}}}{18}{table.caption.15}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Utilització de recursos de la FPGA pel bloc IP dissenyat.}}{42}{table.caption.53}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Especificacions del filtre de compensació de l'etapa d'Interpolació.}}{44}{table.caption.55}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Especificacions del filtre CIC.}}{45}{table.caption.58}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Especificacions de l'etapa de filtrat i sobre-mostreig.}}{46}{table.caption.62}%
+\contentsline {table}{\numberline {5.4}{\ignorespaces Configuracions dels paràmetres del mòdul FIR Compiler.}}{46}{table.caption.63}%
+\contentsline {table}{\numberline {5.5}{\ignorespaces Configuracions dels paràmetres del mòdul CIC Compiler.}}{47}{table.caption.65}%
+\contentsline {table}{\numberline {5.6}{\ignorespaces Utilització de recursos de a la FPGA per cada bloc que conforma el filtre antialiasing.}}{48}{table.caption.67}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Taula de les mètriques de rendiment calculades pel modulador $\Sigma \Delta $ dissenyat.}}{52}{table.caption.70}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces Utilització de recursos de la FPGA pel bloc IP dissenyat.}}{55}{table.caption.79}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {8.1}{\ignorespaces Costos en concepte de retribució dels implicats en la realització del present treball.}}{57}{table.caption.81}%
+\contentsline {table}{\numberline {8.2}{\ignorespaces Costos en material utilitzat per la implementació del treball.}}{58}{table.caption.82}%
+\contentsline {table}{\numberline {8.3}{\ignorespaces Costos d'amortització de les eines emprades pel desenvolupament del treball.}}{58}{table.caption.83}%
+\contentsline {table}{\numberline {8.4}{\ignorespaces Pressupost total del treball realitzat.}}{58}{table.caption.84}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {9.1}{\ignorespaces Utilització de recursos de la FPGA en la implementació final del projecte.}}{60}{table.caption.87}%
+\addvspace {10\p@ }

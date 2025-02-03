@@ -1,0 +1,81 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: Parts/Portada.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: Parts/Resum.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: Parts/agraiments.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: Parts/Index_Glossari.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: Parts/Introduccio.aux
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: Parts/Base_teorica.aux
+Reallocating 'name_of_file' (item size: 1) to 27 items.
+A level-1 auxiliary file: Parts/Blocsimplemented.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: Parts/Entrada_Audio.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: Parts/Filtre_Interpolacio.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: Parts/ModulacioSigmaDelta.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: Parts/Analisi_sost_econ.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: Parts/Conclusions.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: Parts/appendix.aux
+Database file #1: export.bib
+Warning--string name "upc" is undefined
+--line 211 of file export.bib
+Warning--string name "upc" is undefined
+--line 221 of file export.bib
+Warning--empty institution in TFGAmpClassD
+Warning--empty school in ADC16b
+You've used 33 entries,
+            1876 wiz_defined-function locations,
+            678 strings with 9053 characters,
+and the built_in function-call counts, 5008 in all, are:
+= -- 453
+> -- 171
+< -- 0
++ -- 77
+- -- 44
+* -- 279
+:= -- 730
+add.period$ -- 39
+call.type$ -- 33
+change.case$ -- 28
+chr.to.int$ -- 0
+cite$ -- 35
+duplicate$ -- 214
+empty$ -- 629
+format.name$ -- 44
+if$ -- 1250
+int.to.chr$ -- 0
+int.to.str$ -- 33
+missing$ -- 18
+newline$ -- 109
+num.names$ -- 33
+pop$ -- 176
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 140
+stack$ -- 0
+substring$ -- 84
+swap$ -- 35
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 39
+width$ -- 35
+write$ -- 277
+(There were 4 warnings)

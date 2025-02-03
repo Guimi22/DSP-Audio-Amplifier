@@ -1,0 +1,103 @@
+%Tipus de document
+\documentclass[twoside, a4paper, 12pt]{report}
+
+%Paquets que s'utilitzen en aquest document
+%Paquets que s'utilitzen en aquest document
+\usepackage[a4paper]{geometry} %els marges de la classe book són estrets, amb el paquet geometry es poden modificar
+\geometry{margin=2.5cm}
+\usepackage{fancyhdr} %el paquet fancyhdr ofereix moltes opcions pel que fa capçalera de les pàgines i número de pàgina, veure: https://tex.stackexchange.com/a/670860/314029
+
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+
+\fancyhf{} % clear the headers
+\fancyhead[R]{
+   % The chapter number only if it's greater than 0
+   \ifnum\value{chapter}>0 \chaptername\ \thechapter. \fi
+   % The chapter title
+   \leftmark}
+\fancyfoot[C]{\thepage}
+
+\fancypagestyle{plain}{
+  \renewcommand{\headrulewidth}{0pt}
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+}
+
+
+\usepackage{graphicx} %Required for inserting images
+\usepackage[catalan]{babel} %Idioma del document
+\usepackage{titlesec} %Paquet per treure el titol capitol x per cada apartat.
+\usepackage{float}
+    
+%Configuracio del titol per cada pagina:
+\titleformat{\chapter}[display]
+  {\Huge\bfseries}
+  {}
+  {0pt}
+  {\thechapter.\ }
+
+\titleformat{name=\chapter,numberless}[display]
+  {\Huge\bfseries}
+  {}
+  {0pt}
+  {}
+
+
+%...
+%Variables que s'utilitzen per personalitzar la portada    
+\newcommand{\titol}{Disseny i implementació d'un amplificador d'àudio de tipus D modulat per una FPGA}
+\newcommand{\autortesi}{Guillem Ropero Serrano}
+\newcommand{\anydediposit}{2025}
+\newcommand{\grau}{Grau d'Enginyeria Electronica Industrial i Automàtica}
+\newcommand{\director}{Jordi Cosp}
+
+\newcommand{\univeristat}{UPC}
+
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{eurosym}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=black,      
+    urlcolor=blue,
+    pdftitle={Disseny i implementació d'un amplificador d'àudio de tipus D},
+    pdfpagemode=FullScreen,
+    }
+\usepackage{listings}
+\usepackage{rotating}
+\usepackage{longtable}
+\usepackage{caption}
+\usepackage{subcaption}
+%\usepackage[square,numbers]{natbib}
+%\usepackage[backend=biber,style=apa]{biblatex}
+%\bibliographystyle{ieeetr}
+%\addbibresource{export}
+%\bibliography{export}
+
+\begin{document}
+
+\include{Parts/Portada}
+\include{Parts/Resum}
+\include{Parts/agraiments}
+\include{Parts/Index_Glossari}
+\include{Parts/Introduccio}
+\include{Parts/Base_teorica}
+\include{Parts/Blocsimplemented}
+\include{Parts/Entrada_Audio}
+\include{Parts/Filtre_Interpolacio}
+\include{Parts/ModulacioSigmaDelta}
+\include{Parts/Analisi_sost_econ}
+\include{Parts/Conclusions}
+%\printbibliography
+\addcontentsline{toc}{chapter}{Bibliografia}
+\bibliographystyle{ieeetr}
+\bibliography{export.bib}
+\appendix
+\include{Parts/appendix}
+
+\end{document}
